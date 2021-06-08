@@ -1,4 +1,3 @@
-<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
 <h2> Hey there! I'm Jose Gerald.</h2>
 
@@ -6,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at Eulogio "AMANG" Rodriguez Institute of Science and Technology
-- 🌱 &nbsp; Learning more about Web Application(MERN), Cloud Architecture and Systems Design.
+- 🌱 &nbsp; Learning more about Web Development, Cloud Architecture and Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
