@@ -53,7 +53,7 @@
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://web.facebook.com/josegerald.lumbao/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Josegerald%20Lumbao-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/_josegerald/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__josegerald-blue?style=flat-square&logo=instagram"></a>
-<!-- <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
+<a href="mailto:josegerald0307@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josegerald0307@protonmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!-- ⭐️ From [AVS1508](https://github.com/AVS1508) -->
