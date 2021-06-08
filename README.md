@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
 <h2> Hey there! I'm Jose Gerald.</h2>
 
@@ -55,5 +55,3 @@
 <a href="https://www.instagram.com/_josegerald/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__josegerald-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:josegerald0307@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josegerald0307@protonmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<!-- ⭐️ From [AVS1508](https://github.com/AVS1508) -->
