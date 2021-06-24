@@ -5,8 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at Eulogio "AMANG" Rodriguez Institute of Science and Technology
-- 🌱 &nbsp; Learning more about Web Development, Cloud Architecture and Systems Design.
-
+- 🌱 &nbsp; Learning more about Web Development, Specially **MERN** stack
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
