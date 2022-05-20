@@ -9,10 +9,11 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![vb.net](https://img.shields.io/badge/-vb.net-333333?style=flat&logo=dotnet&logoColor=512BD4)
+  <!--   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) -->
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -51,5 +52,5 @@
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://web.facebook.com/josegerald.lumbao/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Josegerald%20Lumbao-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/_josegerald/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__josegerald-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:josegerald0307@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josegerald0307@protonmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:josegeraldlumbao0307@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josegeraldlumbao0307@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
