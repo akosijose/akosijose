@@ -1,11 +1,37 @@
 
-<h2> Hey there! I'm Jose Gerald.</h2>
+<!-- <h2> Hey there! I'm Jose Gerald.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at Eulogio "AMANG" Rodriguez Institute of Science and Technology
-- 🌱 &nbsp; Learning more about Web Development, Specially **MERN** stack
+- 🌱 &nbsp; Learning more about Web Development, Specially **MERN** stack -->
+
+<!-- new profile added -->
+<h1 align="center">Hi 👋, I'm Jose</h1>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
+
+<p align="left"> <a href="https://twitter.com/_josegerald" target="blank"><img src="https://img.shields.io/twitter/follow/_josegerald?logo=twitter&style=for-the-badge" alt="_josegerald" /></a> </p>
+
+- 🎓 Studying Computer Engineering at Eulogio "AMANG" Rodriguez Institute of Science and Technology
+
+- 🌱 I’m currently learning **Reactjs, Nextjs, Express, GraphQL, Mongodb, firebase**
+
+- 📫 How to reach me **josegeraldlumbao0307@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_josegerald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_josegerald" height="30" width="40" /></a>
+<a href="https://fb.com/josegerald.lumbao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josegerald.lumbao" height="30" width="40" /></a>
+<a href="https://instagram.com/_josegerald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_josegerald" height="30" width="40" /></a>
+</p>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akosijose&show_icons=true&locale=en&layout=compact" alt="akosijose" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akosijose&show_icons=true&locale=en" alt="akosijose" /></p
+
+  
+<br />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -39,18 +65,4 @@
 
 <br/>
 
-<a href="https://github.com/akosijose">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akosijose&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akosijose&theme=buefy&layout=compact" />
-</a>
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://web.facebook.com/josegerald.lumbao/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Josegerald%20Lumbao-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/_josegerald/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__josegerald-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:josegeraldlumbao0307@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josegeraldlumbao0307@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
