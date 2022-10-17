@@ -15,7 +15,7 @@
 
 - 🎓 Studying Computer Engineering at Eulogio "AMANG" Rodriguez Institute of Science and Technology
 
-- 🌱 I’m currently learning **Reactjs, Nextjs, Express, GraphQL, Mongodb, firebase**
+- 🌱 I’m currently learning **Reactjs, Express, and Mongodb**
 
 - 📫 How to reach me **josegeraldlumbao0307@gmail.com**
 
