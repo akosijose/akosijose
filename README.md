@@ -5,18 +5,15 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at Eulogio "AMANG" Rodriguez Institute of Science and Technology
-- 🌱 &nbsp; Learning more about Web Development, Specially **MERN** stack -->
+- &nbsp; Learning more about Web Development, Specially **MERN** stack -->
 
 <!-- new profile added -->
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A Software Engineer from Philippines</h3>
 
 <p align="left"> <a href="https://twitter.com/_josegerald" target="blank"><img src="https://img.shields.io/twitter/follow/_josegerald?logo=twitter&style=for-the-badge" alt="_josegerald" /></a> </p>
 
-- 🎓 Studying Computer Engineering at Eulogio "AMANG" Rodriguez Institute of Science and Technology
-
-- 🌱 I’m currently learning **Reactjs, Express, and Mongodb**
-
+<!-- - 🎓 Studying Computer Engineering at Eulogio "AMANG" Rodriguez Institute of Science and Technology -->
 - 📫 How to reach me **josegeraldlumbao0307@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
